@@ -1,0 +1,13 @@
+list-style-type
+altera o marcador para um quadrado
+ul {
+	list-style-type: square;
+}
+altera o marcador para um algarismo romano
+ol {
+	list-style-type: upper-roman;
+}
+altera o marcador para um emoji de joinha
+ul {
+	list-style-type: "\1F44D";
+}

@@ -1,0 +1,18 @@
+Dimensões e alinhamento
+
+-largura
+width
+-altura
+height
+
+-largura maxima
+max-width
+-altura maxima
+max-height
+
+-colocar espaçamentos entre elementos
+-mas ele tem o valor auto para colocar espaçamentos automaticos
+margin
+
+-alinha elementos
+text-align

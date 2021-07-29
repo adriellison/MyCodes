@@ -1,0 +1,64 @@
+font-family
+caso a primeira não funcione, a segunda entra
+#title {
+	font-family: Verdana;
+}
+.post_title {
+	font-family: Verdana, Arial;
+}
+
+font-size
+#title {
+	font-size: 30px;
+}
+.post_title {
+	font-size: 18px;
+}
+
+font-style
+estilo normal é como a fonte é desenhada por padrão
+#title {
+	font-style: normal;
+}
+.subtitle {
+	font-style: italic;
+}
+
+font-weight
+é o peso da fonte
+#title {
+	font-weight: normal;
+}
+.subtitle {
+	font-weight: bold;
+}
+
+text-transform
+alterna o texto entre maiusculas e minusculas
+title {
+	text-transform: uppercase;
+}
+deixa em caixa alta
+.subtitle {
+	text-transform: lowercase;
+}
+deixa em caixa baixa
+.post_title {
+	text-transform: capitalize;
+}
+deixa a primeira letra no começo de cada palavra em caixa alta
+
+text-decoration
+dar destaque em textos, pois ele coloca linhas
+title {
+	text-decoration: underline;
+}
+coloca uma linha abaixo
+.subtitle {
+	text-decoration: overline;
+}
+coloca uma linha abaixo
+.post_title {
+	text-decoration: line-through;
+}
+coloca uma linha ao centro, cortando essa palavra
