@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Manipulando elementos da página</title>
+	<script type="text/javascript" src="./js/dom.js"></script>
+</head>
+<body onload="load()">
+	<h1>Minha página</h1>
+	<!-- <button type="button" onclick="botao()">Clique aqui</button> -->
+	<button type="button" onclick="clicou()">Clique aqui</button>
+	<!-- <h3 id="agradecimento"></h3> -->
+	<p id="agradecimento"></p>
+	<br>
+	<h2 id="teste" onclick="redirecionar()">Dio - Digital Innovation One</h2>
+	<br>
+	<h2>
+		<!-- <p id="mousemove" onmouseover="trocar()" onmouseout="voltar()">Passe o mouse o mouse aqui</p> -->
+		<!-- onmouseover para escutar a entrada do mouse-->
+		<!-- onmouseout para escutar a saida do mouse-->
+		<p onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse o mouse aqui</p>
+		<p onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse o mouse aqui</p>
+		<p onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse o mouse aqui</p>
+	</h2>
+
+	<select onchange="funcaoChange(this)">
+		<option value="1">Valor 1</option>
+		<option value="2">Valor 2</option>
+		<option value="3">Valor 3</option>
+	</select>
+</body>
+</html>
