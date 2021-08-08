@@ -1,0 +1,109 @@
+/* definindo vars na raiz */
+:root {
+	--vermelho: #E50914;
+	--preto: #000000;
+}
+
+@font-face {
+	font-family: NetflixSans;
+	src: url(../fonts/NetflixSansRegular.ttf);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: var(--preto);
+	font-family: NetflixSans, 'Times New Roman', Times, serif;
+	color: #ffffff;
+}
+
+header .container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+header .logo {
+	color: var(--vermelho);
+	font-size: 30px;
+	margin-left: 5px;
+}
+
+header nav a {
+	text-decoration: none;
+	color: #aaaaaa;
+	margin-right: 10px;
+}
+
+header nav a:hover {
+	color: #ffffff;
+}
+
+/* filme principal */
+.filme-principal {
+	font-size: 16px;
+	/* adicionando uma camada fina na cor preta, em cima da minha imagem */
+	background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%) ,url('../images/capa-house.jpg');
+
+	height: 400px;
+	background-size: cover;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.filme-principal .descricao {
+	margin-top: 5%%;
+	margin-bottom: 40px;
+}
+
+.filme-principal .titulo {
+	margin-top: 15%;
+	font-size: 40px;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.botao {
+	background-color: rgba(0,0,0,.50);
+	border: none;
+	color: #ffffff;
+	padding: 15px 30px;
+	margin-right: 15px;
+	font-size: 12px;
+	cursor: pointer;
+	transition: .3s ease all;
+}
+
+.botao:hover {
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.botao i {
+	margin-right: 8px;
+}
+
+.container {
+	margin-left: 30px;
+}
+
+.filme-principal .container {
+	width: 60%;
+}
+
+.box-filme {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+.carrosel-filmes {
+	margin-top: 5px;
+}
