@@ -30,3 +30,6 @@ _Desafio para praticar através do desenvolvimento de algoritmos os conceitos de
 - **Fundamentos Aritméticos em Javascript - DIO**</br>
 _Desafio para praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas._</br>
 [link do desafio](https://web.dio.me/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/html-web-developer)
+## 💾 Lab:
+- **Criando seu primeiro repositório no GitHub para compartilhar seu progresso**</br>
+_Reforçando o conhecimentoem Git com um desafio totalmente prático, onde será executado todos os passos para criação, atualização e sincronização de um repositório no GitHub._</br>
