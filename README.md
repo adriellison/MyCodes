@@ -1,4 +1,4 @@
-![enter image description here](https://github.com/adriellison/myCodes/blob/main/cover%20for%20codes.png)
+![banner](https://github.com/adriellison/myCodes/blob/main/cover.png)
 # Onde salvo a maior parte dos meus códigos
 
 Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas tecnologias
