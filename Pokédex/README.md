@@ -1,6 +1,14 @@
 ![enter image description here](https://github.com/adriellison/myCodes/blob/main/Pok%C3%A9dex/cover.png)
-#  Pokédex
+# Pokédex
 
-- Projeto desenvolvido na Live do Canal Dev em Dobro
+Projeto desenvolvido na Live do Canal Dev em Dobro
 
-🔴 LIVE SECRETA 1 - HTML: A BASE DO FRONTEND - INICIANDO O PROJETO - MAPADEV WEEK
+- Aula 01 - Iniciando o projeto<br>
+A base do frontend
+
+- Aula 02 - Complementando a estrutura do projeto<br>
+Estilizando com CSS
+
+- Aula 03 - A magia do Javascript
+
+<img src="https://github.com/adriellison/myCodes/blob/main/Pok%C3%A9dex/cards.png" alt="cards da pokédex com informações dos pokémons" width="350px">
