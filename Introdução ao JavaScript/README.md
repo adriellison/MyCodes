@@ -10,7 +10,7 @@
 
 - Colocando em prática
 
-> Criando um contador
+> Criando um contador<br>
 > Desafio: To-do list
 
 - Mercado de Trabalho
