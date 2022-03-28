@@ -1,4 +1,4 @@
-![banner](https://github.com/adriellison/myCodes/blob/main/cover.png)
+![enter image description here](https://github.com/adriellison/myCodes/blob/main/cover.png)
 # Onde salvo a maior parte dos meus códigos
 
 Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas tecnologias
@@ -8,6 +8,8 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
 _Aprender a utilizar o framework Bootstrap e aprofundar o conhecimento em HTML5 e CSS3._</br>
 - **Introdução  a criação de websites com HTML5 e CSS3 - DIO**</br>
 _Estrutura básica, semântica, principais elementos e comandos._</br>
+- **Introdução  ao Javascript - DIO**</br>
+_Entender o que é Javascript, suas aplicações na vida real, desafios(contador, to-do list) e conhecer o Mercado de trabalho.._</br>
 - **Introdução  ao Kotlin - DIO**</br>
 _Primeiros passos na linguagem, conceitos e sintaxe básica._</br>
 - **Introdução  a programação com Python - DIO**</br>
