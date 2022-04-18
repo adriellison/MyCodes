@@ -4,6 +4,9 @@
 Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas tecnologias
 
 ## 📚 Cursos:
+
+- **Coleções - DIO**</br>
+_Aprender sobre coleções em Javascript(Estrutura, Métodos e Map vs Objeto)._</br>
 - **Construindo páginas para a internet com Bootstrap - DIO**</br>
 _Aprender a utilizar o framework Bootstrap e aprofundar o conhecimento em HTML5 e CSS3._</br>
 - **Introdução  a criação de websites com HTML5 e CSS3 - DIO**</br>
