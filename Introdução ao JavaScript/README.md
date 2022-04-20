@@ -1,5 +1,7 @@
 # Introdução ao Javascript
 
+Projetos referentes ao curso "Introdução ao Javascript" na [Digital Innovation One](https://digitalinnovation.one/).
+
 > Básico de javascript
 
 - Recursos básicos da linguagem
