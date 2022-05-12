@@ -1,0 +1,16 @@
+C:\Users\adriellison.ferreira\Dio\bin\Debug\net5.0\Dio.exe
+C:\Users\adriellison.ferreira\Dio\bin\Debug\net5.0\Dio.deps.json
+C:\Users\adriellison.ferreira\Dio\bin\Debug\net5.0\Dio.runtimeconfig.json
+C:\Users\adriellison.ferreira\Dio\bin\Debug\net5.0\Dio.runtimeconfig.dev.json
+C:\Users\adriellison.ferreira\Dio\bin\Debug\net5.0\Dio.dll
+C:\Users\adriellison.ferreira\Dio\bin\Debug\net5.0\ref\Dio.dll
+C:\Users\adriellison.ferreira\Dio\bin\Debug\net5.0\Dio.pdb
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\Dio.csproj.AssemblyReference.cache
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\Dio.AssemblyInfoInputs.cache
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\Dio.AssemblyInfo.cs
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\Dio.csproj.CoreCompileInputs.cache
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\Dio.dll
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\ref\Dio.dll
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\Dio.pdb
+C:\Users\adriellison.ferreira\Dio\obj\Debug\net5.0\Dio.genruntimeconfig.cache
