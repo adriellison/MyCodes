@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Trabalhando_com_Tipos_de_Referência_e_Valor</RootNamespace>
+  </PropertyGroup>
+
+</Project>
