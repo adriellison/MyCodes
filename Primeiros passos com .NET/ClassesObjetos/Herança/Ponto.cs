@@ -12,12 +12,17 @@ namespace Classes.Herança{
         }
 
         protected void CalcularDistancia(){
+            CalcularDistancia2();
             // ...
         }
 
-		protected void CalcularDistancia2(){
+		private void CalcularDistancia2(){
 			// ...
 		}
+
+        public void CalcularDistancia3(){
+            // ...
+        }
 
     }
 }
