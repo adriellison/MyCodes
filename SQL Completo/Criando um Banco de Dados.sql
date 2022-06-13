@@ -1,0 +1,11 @@
+CREATE DATABASE Curso_sql;
+
+USE Curso_sql;
+
+CREATE TABLE Funcionarios(
+	id INT NOT NULL IDENTITY(1,1)
+	, nome VARCHAR(45) NOT NULL
+	, salario DOUBLE PRECISION NOT NULL DEFAULT '0'
+	, departamento VARCHAR(45) NOT NULL
+	, PRIMARY KEY(id)
+);
