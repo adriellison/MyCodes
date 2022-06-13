@@ -1,0 +1,16 @@
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\enquanto.csproj.AssemblyReference.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\enquanto.AssemblyInfoInputs.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\enquanto.AssemblyInfo.cs
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\enquanto.csproj.CoreCompileInputs.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\bin\Debug\net5.0\enquanto.exe
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\bin\Debug\net5.0\enquanto.deps.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\bin\Debug\net5.0\enquanto.runtimeconfig.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\bin\Debug\net5.0\enquanto.runtimeconfig.dev.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\bin\Debug\net5.0\enquanto.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\bin\Debug\net5.0\ref\enquanto.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\bin\Debug\net5.0\enquanto.pdb
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\enquanto.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\ref\enquanto.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\enquanto.pdb
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\enquanto\obj\Debug\net5.0\enquanto.genruntimeconfig.cache

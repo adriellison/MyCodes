@@ -1,0 +1,16 @@
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\semOrientacao.csproj.AssemblyReference.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\semOrientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\semOrientacao.AssemblyInfoInputs.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\semOrientacao.AssemblyInfo.cs
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\semOrientacao.csproj.CoreCompileInputs.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\bin\Debug\net5.0\semOrientacao.exe
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\bin\Debug\net5.0\semOrientacao.deps.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\bin\Debug\net5.0\semOrientacao.runtimeconfig.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\bin\Debug\net5.0\semOrientacao.runtimeconfig.dev.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\bin\Debug\net5.0\semOrientacao.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\bin\Debug\net5.0\ref\semOrientacao.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\bin\Debug\net5.0\semOrientacao.pdb
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\semOrientacao.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\ref\semOrientacao.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\semOrientacao.pdb
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\semOrientacao\obj\Debug\net5.0\semOrientacao.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\triangulo.csproj.AssemblyReference.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\triangulo.AssemblyInfoInputs.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\triangulo.AssemblyInfo.cs
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\bin\Debug\net5.0\triangulo.exe
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\bin\Debug\net5.0\triangulo.deps.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\bin\Debug\net5.0\triangulo.runtimeconfig.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\bin\Debug\net5.0\triangulo.runtimeconfig.dev.json
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\bin\Debug\net5.0\triangulo.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\bin\Debug\net5.0\ref\triangulo.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\bin\Debug\net5.0\triangulo.pdb
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\triangulo.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\ref\triangulo.dll
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\triangulo.pdb
+C:\Users\adriellison.ferreira\OneDrive\Codes\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Classes,atributos,metodos,membrosEstaticos\triangulo\obj\Debug\net5.0\triangulo.genruntimeconfig.cache
