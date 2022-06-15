@@ -119,7 +119,7 @@ namespace Trabalhando_com_Tipos_de_Referência_e_Valor
             return -1;
         }
 
-        public static void Main()
+        static void Demo6()
         {
             int[] numeros = new int[] {0,2,4,6,8,10,12,14,16,18};
 
@@ -136,6 +136,11 @@ namespace Trabalhando_com_Tipos_de_Referência_e_Valor
             {
                 WriteLine($"O número que você procura não se encontra na lista!");
             }
+        }
+
+        public static void Main()
+        {
+            WriteLine("\n\tteste\n");
         }
     }
 }
