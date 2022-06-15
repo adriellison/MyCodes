@@ -140,7 +140,7 @@ namespace Trabalhando_com_Tipos_de_Referência_e_Valor
 
         public static void Main()
         {
-            WriteLine("\n\tteste\n");
+            WriteLine("Hello, World!");
         }
     }
 }
