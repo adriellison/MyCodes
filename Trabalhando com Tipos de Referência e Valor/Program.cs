@@ -1,4 +1,5 @@
 ﻿using static System.Console;
+using System.Collections.Generic;
 
 namespace Trabalhando_com_Tipos_de_Referência_e_Valor
 {
@@ -138,9 +139,41 @@ namespace Trabalhando_com_Tipos_de_Referência_e_Valor
             }
         }
 
+        static bool EncontrarPessoa(List<Pessoa> pessoas, Pessoa pessoa)
+        {
+            foreach(var item in pessoas)
+            {
+                if(item == pessoa)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
         public static void Main()
         {
-            WriteLine("Hello, World!");
+            List<Pessoa> pessoas = new List<Pessoa>()
+            {
+                new Pessoa(){Nome = "Andrew"},
+                new Pessoa(){Nome = "Igor"},
+                new Pessoa(){Nome = "Vanessa"},
+                new Pessoa(){Nome = "Sabrina"},
+                new Pessoa(){Nome = "Sofia"},
+            };
+
+            WriteLine("Digite a pessoa que gostaria de localizar: ");
+            var nome = ReadLine();
+            var pessoa = new Pessoa(){Nome = nome};
+            var encontrado = EncontrarPessoa(pessoas, pessoa);
+            if(encontrado)
+            {
+                WriteLine("Pessoa localizada!");
+            }
+            else
+            {
+                WriteLine("Pessoa não localizada!");
+            }
         }
     }
 }
