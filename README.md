@@ -20,6 +20,10 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C#](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+- **C# COMPLETO Programação Orientada a Objetos + Projetos - Udemy**
+
+    > [Visualizar repositório](./C%23%20COMPLETO%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20%2B%20Projetos/)
+
 - **Primeiros passos com .NET - DIO**
 
     > [Visualizar repositório](./Primeiros%20passos%20com%20.NET/)
@@ -172,11 +176,3 @@ _Desafio para praticar através do desenvolvimento de algoritmos os conceitos de
 _Desafio para praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas._
 
 [link do desafio](https://web.dio.me/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/html-web-developer)
-
-## 💾 Lab:
-
-- **Criando seu primeiro repositório no GitHub para compartilhar seu progresso**
-
-_Reforçando o conhecimentoem Git com um desafio totalmente prático, onde será executado todos os passos para criação, atualização e sincronização de um repositório no GitHub._
-
-[link do lab](https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/e714fb1c-4990-4c47-99a5-d97703e40b4d)
