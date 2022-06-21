@@ -3,58 +3,72 @@
 
 Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas tecnologias
 
-[teste](#)
-
 ## 📚 Cursos:
 
- ![### Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-
-- **Coleções - DIO**
-
-    _Aprender sobre coleções em Javascript(Estrutura, Métodos e Map vs Objeto)._
-
-    [👀📑📋🗃🗄🖥💻💾 Visualizar repositório]()
-
----
-
-### C# | .Net
-
-
-
----
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - **Construindo páginas para a internet com Bootstrap - DIO**
 
-_Aprender a utilizar o framework Bootstrap e aprofundar o conhecimento em HTML5 e CSS3._
+    > Aprender a utilizar o framework Bootstrap e aprofundar o conhecimento em HTML5 e CSS3.
 
-- **Debugging e Error Handling - DIO**
+    > [Visualizar repositório]()
 
-_Tipos de erros, tratamento de erros e criando erros._
+---
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Introdução  a criação de websites com HTML5 e CSS3 - DIO**
 
-_Estrutura básica, semântica, principais elementos e comandos._
+    > Estrutura básica, semântica, principais elementos e comandos.
+
+---
+
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+- **Coleções - DIO**
+
+    > Aprender sobre coleções em Javascript(Estrutura, Métodos e Map vs Objeto).
+
+- **Debugging e Error Handling - DIO**
+
+    > Tipos de erros, tratamento de erros e criando erros.
 
 - **Introdução  ao Javascript - DIO**
-
-_Entender o que é Javascript, suas aplicações na vida real, desafios(contador, to-do list) e conhecer o Mercado de trabalho.._
-
-- **Introdução  ao Kotlin - DIO**
-
-_Primeiros passos na linguagem, conceitos e sintaxe básica._
-
-- **Introdução  a programação com Python - DIO**
-
-_Embasamento da linguagem, quando e onde é mais indicado aplicar._
+    
+    > Entender o que é Javascript, suas aplicações na vida real, desafios(contador, to-do list) e conhecer o Mercado de trabalho.
 
 - **Lógica de Programação Essencial - DIO**
 
-_Forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa, o uso de algoritmos._
+    > Forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa, o uso de algoritmos.
 
 - **Programação para a internet com Javascript - DIO**
 
-_Como trabalhar com Javascript._
+    > Como trabalhar com Javascript.
+
+---
+
+![Kotlin](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+- **Introdução  ao Kotlin - DIO**
+
+    > Primeiros passos na linguagem, conceitos e sintaxe básica.
+
+---
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+- **Introdução  a programação com Python - DIO**
+
+    > Embasamento da linguagem, quando e onde é mais indicado aplicar.
+
+    > [Visualizar repositório]()
+
+---
 
 ## 📑 Projetos:
 
