@@ -150,17 +150,3 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
     > Prática de como modelar um banco de dados com SQL SERVER, criando desde as tabelas relacionadas do projeto, até a implementação da interface.
 
 ---
-
-## 👾 Desafios:
-
-- **Introdução a programação com Javascript - DIO**
-
-_Desafio para praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas._
-
-[link do desafio](https://web.dio.me/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira?back=/track/html-web-developer)
-
-- **Fundamentos Aritméticos em Javascript - DIO**
-
-_Desafio para praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas._
-
-[link do desafio](https://web.dio.me/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos?back=/track/html-web-developer)
