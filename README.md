@@ -107,6 +107,14 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+- **Curso de SQL Completo- Softblue**🟡
+
+    > Curso de SQL com objetivo de ensinar os conceitos de bancos de dados e a utilização da linguagem SQL (Structured Query Language) para manipulação de dados. São abordados temas como bancos de dados, SGBD's, normalização e a linguagem SQL propriamente dita.
+
+    > Também são abordados neste curso temas como controle de acesso e transações em bancos de dados. Este curso aborda a versão ANSI do SQL, que é padronizada em todos os bancos de dados, e utiliza o MySQL para por em prática os conhecimentos adquiridos nas aulas teóricas (dicas e manuais dos demais bancos de dados são disponibilizados para consulta).
+
+    > [Visualizar repositório](./SQL%20Completo/)
+
 - **MySql: Consultas com Join - DIO**⚪
 
     > Consultas relacionando os dados das tabelas e como filtrar informações.
