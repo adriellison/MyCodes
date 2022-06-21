@@ -151,20 +151,6 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
 
 ---
 
-## 📑 Projetos:
-
-- **Recriando a página inicial do Instagram - DIO**
-
-_Recriando a página de login do Instagram usando CSS com Flexbox._
-
-- **Recriando a interface do Netflix - DIO**
-
-_Recriando a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e Javascript._
-
-- **Recriando o jogo da cobrinha com Javascript - DIO**
-
-_Clássico jogo da cobrinha utilizando HTML, CSS e Javascript._
-
 ## 👾 Desafios:
 
 - **Introdução a programação com Javascript - DIO**
