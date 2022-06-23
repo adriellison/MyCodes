@@ -41,7 +41,7 @@ namespace Trabalhando_com_Tipos_de_Referência_e_Valor
 
         static void Demo3()
         {
-            StrucPessoa p1 = new StrucPessoa()
+            StructPessoa p1 = new StructPessoa()
             {
                 Nome = "Julia",
                 Idade = 30,
@@ -89,7 +89,7 @@ namespace Trabalhando_com_Tipos_de_Referência_e_Valor
             p1.Nome = novoNome;
         }
 
-        static StrucPessoa TrocarNome(StrucPessoa p1, string novoNome)
+        static StructPessoa TrocarNome(StructPessoa p1, string novoNome)
         {
             p1.Nome = novoNome;
             return p1;
@@ -143,7 +143,19 @@ namespace Trabalhando_com_Tipos_de_Referência_e_Valor
         {
             foreach(var item in pessoas)
             {
-                if(item == pessoa)
+                if(item.Nome == pessoa.Nome)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        static bool EncontrarPessoa(List<StructPessoa> pessoas, StructPessoa pessoa)
+        {
+            foreach(var item in pessoas)
+            {
+                if(item.Equals(pessoa))
                 {
                     return true;
                 }
@@ -153,18 +165,18 @@ namespace Trabalhando_com_Tipos_de_Referência_e_Valor
 
         public static void Main()
         {
-            List<Pessoa> pessoas = new List<Pessoa>()
+            List<StructPessoa> pessoas = new List<StructPessoa>()
             {
-                new Pessoa(){Nome = "Andrew"},
-                new Pessoa(){Nome = "Igor"},
-                new Pessoa(){Nome = "Vanessa"},
-                new Pessoa(){Nome = "Sabrina"},
-                new Pessoa(){Nome = "Sofia"},
+                new StructPessoa(){Nome = "Andrew"},
+                new StructPessoa(){Nome = "Igor"},
+                new StructPessoa(){Nome = "Vanessa"},
+                new StructPessoa(){Nome = "Sabrina"},
+                new StructPessoa(){Nome = "Sofia"},
             };
 
             WriteLine("Digite a pessoa que gostaria de localizar: ");
             var nome = ReadLine();
-            var pessoa = new Pessoa(){Nome = nome};
+            var pessoa = new StructPessoa(){Nome = nome};
             var encontrado = EncontrarPessoa(pessoas, pessoa);
             if(encontrado)
             {
