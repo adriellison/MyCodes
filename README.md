@@ -24,6 +24,10 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
 
     > [Visualizar repositório](./C%23%20COMPLETO%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20%2B%20Projetos/)
 
+- **Controlando o Fluxo de Execução**
+
+    > [Visualizar repositório](./Controlando%20o%20Fluxo%20de%20Execu%C3%A7%C3%A3o/)
+
 - **Primeiros passos com .NET - DIO**
 
     > [Visualizar repositório](./Primeiros%20passos%20com%20.NET/)
