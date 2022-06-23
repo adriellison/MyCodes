@@ -30,35 +30,3 @@ C:\Users\adriellison.ferreira\OneDrive\Codes\myCodes\Trabalhando com Tipos de Re
 C:\Users\adriellison.ferreira\OneDrive\Codes\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\ref\Trabalhando com Tipos de Referência e Valor.dll
 C:\Users\adriellison.ferreira\OneDrive\Codes\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.pdb
 C:\Users\adriellison.ferreira\OneDrive\Codes\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.genruntimeconfig.cache
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.exe
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.deps.json
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.runtimeconfig.json
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.runtimeconfig.dev.json
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.dll
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\bin\Debug\net5.0\ref\Trabalhando com Tipos de Referência e Valor.dll
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.pdb
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.csproj.AssemblyReference.cache
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.AssemblyInfoInputs.cache
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.AssemblyInfo.cs
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.csproj.CoreCompileInputs.cache
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.dll
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\ref\Trabalhando com Tipos de Referência e Valor.dll
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.pdb
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.genruntimeconfig.cache
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.exe
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.deps.json
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.runtimeconfig.json
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.runtimeconfig.dev.json
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.dll
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\bin\Debug\net5.0\ref\Trabalhando com Tipos de Referência e Valor.dll
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\bin\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.pdb
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.csproj.AssemblyReference.cache
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.AssemblyInfoInputs.cache
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.AssemblyInfo.cs
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.csproj.CoreCompileInputs.cache
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.dll
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\ref\Trabalhando com Tipos de Referência e Valor.dll
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.pdb
-C:\Users\adriellison.ferreira\myCodes\Trabalhando com Tipos de Referência e Valor\Aula 1\obj\Debug\net5.0\Trabalhando com Tipos de Referência e Valor.genruntimeconfig.cache
