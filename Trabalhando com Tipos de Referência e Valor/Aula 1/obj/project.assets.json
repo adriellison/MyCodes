@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adriellison.ferreira\\OneDrive\\Codes\\myCodes\\Trabalhando com Tipos de Referência e Valor\\Trabalhando com Tipos de Referência e Valor.csproj",
+      "projectUniqueName": "C:\\Users\\adriellison.ferreira\\Desktop\\MyCodes\\Trabalhando com Tipos de Referência e Valor\\Aula 1\\Trabalhando com Tipos de Referência e Valor.csproj",
       "projectName": "Trabalhando com Tipos de Referência e Valor",
-      "projectPath": "C:\\Users\\adriellison.ferreira\\OneDrive\\Codes\\myCodes\\Trabalhando com Tipos de Referência e Valor\\Trabalhando com Tipos de Referência e Valor.csproj",
+      "projectPath": "C:\\Users\\adriellison.ferreira\\Desktop\\MyCodes\\Trabalhando com Tipos de Referência e Valor\\Aula 1\\Trabalhando com Tipos de Referência e Valor.csproj",
       "packagesPath": "C:\\Users\\adriellison.ferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adriellison.ferreira\\OneDrive\\Codes\\myCodes\\Trabalhando com Tipos de Referência e Valor\\obj\\",
+      "outputPath": "C:\\Users\\adriellison.ferreira\\Desktop\\MyCodes\\Trabalhando com Tipos de Referência e Valor\\Aula 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adriellison.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
