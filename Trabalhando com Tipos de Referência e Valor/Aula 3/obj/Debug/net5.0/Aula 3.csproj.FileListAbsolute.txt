@@ -1,0 +1,16 @@
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\bin\Debug\net5.0\Aula 3.exe
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\bin\Debug\net5.0\Aula 3.deps.json
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\bin\Debug\net5.0\Aula 3.runtimeconfig.json
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\bin\Debug\net5.0\Aula 3.runtimeconfig.dev.json
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\bin\Debug\net5.0\Aula 3.dll
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\bin\Debug\net5.0\ref\Aula 3.dll
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\bin\Debug\net5.0\Aula 3.pdb
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\Aula 3.csproj.AssemblyReference.cache
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\Aula 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\Aula 3.AssemblyInfoInputs.cache
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\Aula 3.AssemblyInfo.cs
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\Aula 3.csproj.CoreCompileInputs.cache
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\Aula 3.dll
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\ref\Aula 3.dll
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\Aula 3.pdb
+C:\Users\adriellison.ferreira\Desktop\MyCodes\Trabalhando com Tipos de Referência e Valor\Aula 3\obj\Debug\net5.0\Aula 3.genruntimeconfig.cache
