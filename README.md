@@ -74,6 +74,12 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
 
     > [Visualizar repositório](./Programa%C3%A7%C3%A3o%20para%20internet%20com%20JavaScript/)
 
+- **Variáveis e Tipos - DIO**
+
+    > Como trabalhar com Javascript.
+
+    > [Visualizar repositório](./Vari%C3%A1veis%20e%20Tipos/)
+
 ---
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
