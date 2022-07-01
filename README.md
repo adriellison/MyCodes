@@ -46,6 +46,12 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
 
     > [Visualizar repositório](./Introdu%C3%A7a%C3%B5%20a%20cria%C3%A7%C3%A3o%20de%20de%20websites%20com%20HTML5%20e%20CSS3/)
 
+- **Posicionando elementos com Flexbox em CSS - DIO**
+
+    > Estrutura básica do display:flex
+
+    > [Visualizar repositório](./Posicionando%20elementos%20com%20Flexbox%20em%20CSS/)
+
 ---
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
