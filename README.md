@@ -1,4 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriellison&repo=github-readme-stats)](https://github.com/adriellison/github-readme-stats)
 ![enter image description here](./cover.png)
 # Onde salvo a maior parte dos meus códigos
 
