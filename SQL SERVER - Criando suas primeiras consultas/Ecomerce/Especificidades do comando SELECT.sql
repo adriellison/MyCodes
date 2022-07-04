@@ -1,6 +1,6 @@
-USE ecomerce;
+USE Ecomerce;
 
-SELECT * FROM Cliente;
+SELECT * FROM Clientes;
 SELECT * FROM Produtos;
 SELECT * FROM Pedido;
 

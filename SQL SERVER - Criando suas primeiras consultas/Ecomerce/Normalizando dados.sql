@@ -1,5 +1,5 @@
-SELECT * FROM [ecomerce]..[Cliente];
+SELECT * FROM [Ecomerce]..[Clientes];
 
-ALTER TABLE ecomerce..Cliente ADD CONSTRAINT pk_cliente PRIMARY KEY(Codigo);
+ALTER TABLE Ecomerce..Clientes ADD CONSTRAINT pk_clientes PRIMARY KEY(Codigo);
 
-INSERT Cliente VALUES('Julio', 'J', GETDATE());
+INSERT Clientes VALUES('Julio', 'J', GETDATE());

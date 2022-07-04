@@ -1,7 +1,8 @@
-CREATE TABLE Cliente(
+CREATE TABLE Clientes(
 	Codigo INT NOT NULL,
 	Nome VARCHAR(100) NOT NULL,
-	TipoPessoa CHAR(1) NOT NULL
+	TipoPessoa CHAR(1) NOT NULL,
+	DataCriacao DATETIME
 )
 
 CREATE TABLE Produtos(

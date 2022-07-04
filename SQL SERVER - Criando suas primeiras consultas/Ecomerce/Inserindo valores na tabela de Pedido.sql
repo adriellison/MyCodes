@@ -16,4 +16,4 @@ INSERT PedidoItem VALUES(4, 1, 35, 35);
 INSERT PedidoItem VALUES(5, 2, 30, 25);
 INSERT PedidoItem VALUES(6, 3, 20, 50);
 
-SELECT Cliente.nome, Pedido.TotalPedido FROM Cliente JOIN Pedido ON Cliente.Codigo = Pedido.CodigoCliente WHERE Cliente.Codigo = 3;
+SELECT Clientes.nome, Pedido.TotalPedido FROM Clientes JOIN Pedido ON Cliente.Codigo = Pedido.CodigoCliente WHERE Clientes.Codigo = 3;
