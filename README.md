@@ -28,6 +28,10 @@ Todos os códigos de aulas extras e novos cursos que iniciei para aprender novas
 
     > [Visualizar repositório](./Controlando%20o%20Fluxo%20de%20Execu%C3%A7%C3%A3o/)
 
+- **Fundamentos de Coleções e LINQ com .NET**
+
+    > [Visualizar repositório](./Fundamentos%20de%20Cole%C3%A7%C3%B5es%20e%20LINQ%20com%20.NET/)
+
 - **Primeiros passos com .NET - DIO**
 
     > [Visualizar repositório](./Primeiros%20passos%20com%20.NET/)
