@@ -1,9 +1,50 @@
-### dotnet CLI
+## dotnet CLI
 
-#### Verificando versão atual instalada
+**Criando um novo projeto**
+_dotnet cli_
 
-#### Listando versões instaladas
+- Novo Console Application
 
-#### Alterando Versões
+```
+    dotnet new console
+```
 
-#### Aceitando os certificados
+- Nova Class Library
+
+```
+    dotnet new classlib
+```
+
+- Novo projeto ASP.NET Core
+
+```
+    dotnet new web
+```
+
+- Novo projeto ASP.NET Core
+
+```
+    dotnet new mvc
+```
+
+- Novo projeto ASP.NET Core
+
+```
+    dotnet new webapi
+```
+
+- Novo projeto Microsoft Test
+
+```
+    dotnet new mstest
+```
+
+## Variáveis de Ambiente
+
+```
+dotnet run --environmento=$SEU_AMBIENTE
+
+dotnet run --environmento=development
+
+dotnet run --environmento=production
+```
