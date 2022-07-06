@@ -96,7 +96,7 @@ const var IDADE_MINIMA; // Errado
 - O tipo `byte` é utilizado para representar um byte de fato
 - Em diversos casos precisamos da cadeia de bytes de um arquivo por exemplo
     - Também chamado de byte array
-- Temos também o `sbyte, que permite valores negativos
+- Temos também o `sbyte`, que permite valores negativos
 
 > `Signed e Usigned` Valores com sinal "-" por exemplo, são chamados de signed
 
@@ -138,6 +138,17 @@ const var IDADE_MINIMA; // Errado
 ```
 
 ## Char
+
+- Utilizando para armazenar apenas um caractere no formato Unicode
+- Definido pela palavra reservada `char`
+- A atribuição de um valor char é dada por aspas simples 'a'
+- char (16-bit)
+    - Qualquer caractere
+
+```c#
+    char primeiraLetra = 'A';
+    char segundaLetra = 'B';
+```
 
 ## String
 
