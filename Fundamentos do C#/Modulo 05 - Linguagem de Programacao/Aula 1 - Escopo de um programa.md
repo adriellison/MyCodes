@@ -152,11 +152,52 @@ const var IDADE_MINIMA; // Errado
 
 ## String
 
+- Armazena uma cadeia de caracteres
+- Podemos pensar nele como uma lista de `char`
+- Definido pela palavra reservada `string`
+- A atribuição de um valor string é dada por aspas duplas
+
+```c#
+    string primeiraLetra = "C";
+    string texto = "Meu texto";
+    string documento = "033.055.775-92";
+```
+
 ## Var
+
+- Substitui o nome de um tipo
+- Seráa do tipo do primeiro valor atribuido
+- Recomendado o uso
+    - Dexe para usar `var` quando já dominar os tipos
+
+```c#
+var idade = 25; // Será do tipo int
+var nome = "Felipe"; // Será do tipo string
+var sexo = 'M'; // Será do tipo char
+```
 
 ## Object
 
+- Tipo genérico que recebe qualquer valor ou objeto
+- Caso não saiba o tipo da informação ou ela seja de vários tipo diferentes
+- Não possui instelisense (Ajuda dos editores) por ser um tipo desconhecido
+- Evite usar
+
+```c#
+    object idade = 25; // 
+```
+
 ## Nullabel Types
+
+- Null significa vazio, nada
+- Diferente de zero ou uma string vazia
+- Todo tipo primitivo ou complexo pode receber o valor null
+- O tipo deve ser marcado como Nullable Type
+
+```c#
+int? idade = null; // tem um ? depois do tipo
+byte? t = null;
+```
 
 ## Alias
 
